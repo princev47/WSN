@@ -1,0 +1,24 @@
+{
+  "layer": 2,
+  "model": "RandomForest",
+  "timestamp": "2026-04-18T00:46:17.805102",
+  "accuracy": 0.782,
+  "roc_auc": 0.7122,
+  "cv_f1_mean": 0.3745,
+  "cv_f1_std": 0.013,
+  "forwarded_to_layer3": 2165,
+  "feature_importances": {
+    "packet_rate": 0.1639,
+    "pkt_zscore": 0.1371,
+    "energy_pkt_ratio": 0.0923,
+    "pkt_rate_rolling_std": 0.09,
+    "pkt_rate_rolling_mean": 0.0894,
+    "energy_remaining": 0.0822,
+    "energy_consumed_uJ": 0.0807,
+    "energy_drop_rate": 0.0721,
+    "energy_drop_rate_mean": 0.0695,
+    "dist_to_ch_bs": 0.0684,
+    "layer1_flagged": 0.048,
+    "is_cluster_head": 0.0064
+  }
+}

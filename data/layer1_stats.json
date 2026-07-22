@@ -1,0 +1,13 @@
+{
+  "layer": 1,
+  "filter_type": "Cuckoo Filter",
+  "timestamp": "2026-04-18T00:46:12.024304",
+  "total_records": 5284,
+  "actual_clones": 783,
+  "flagged": 1695,
+  "true_positives": 412,
+  "false_positives": 1219,
+  "precision": 0.2526,
+  "recall": 0.5262,
+  "f1_score": 0.3413
+}
